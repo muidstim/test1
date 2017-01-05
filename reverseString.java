@@ -3,7 +3,7 @@ import java.util.*;
 
 public class reverseString {
  public static void main(String[] args) {
-     String input = "Be in present";
+     String input = "Give me Bacon";
      char[] hello=input.toCharArray();
      List<Character> trial1= new LinkedList<>();
      for(char c: hello)
